@@ -1,0 +1,12 @@
+.navbar-brand {
+  display: block;
+  margin: auto;
+}
+
+form {
+  width: 65%;
+}
+
+.hide {
+  display: none;
+}

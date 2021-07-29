@@ -1,0 +1,23 @@
+
+{
+    "_id" : ObjectId("610284ee2d40fd311ec24485"),
+    "id" : 101,
+    "name" : "React.js Course",
+    "hours" : 100
+}
+
+{
+    "_id" : ObjectId("610284ee2d40fd311ec24488"),
+    "id" : 102,
+    "name" : "Flutter Course",
+    "hours" : 60
+}
+
+
+{
+    "_id" : ObjectId("610288613f3cd011a0768a4c"),
+    "id" : 103,
+    "name" : "web dev",
+    "hours" : 3,
+    "__v" : 0
+}
